@@ -1,4 +1,4 @@
-# rankpath
+# RankPath
 
 ## Project setup
 ```
